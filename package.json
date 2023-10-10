@@ -1,7 +1,7 @@
 {
   "name": "homebridge-rpi-akb",
   "description": "Homebridge plugin for Raspberry Pi",
-  "displayName": "Homebridge RPi",
+  "displayName": "Homebridge RPi AKB",
   "author": "Ali Kadir Bagcioglu (Erik Baauw)",
   "license": "Apache-2.0",
   "version": "1.8.8",
