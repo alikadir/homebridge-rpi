@@ -1,8 +1,8 @@
 {
-  "name": "homebridge-rpi",
+  "name": "homebridge-rpi-akb",
   "description": "Homebridge plugin for Raspberry Pi",
   "displayName": "Homebridge RPi",
-  "author": "Erik Baauw",
+  "author": "Ali Kadir Bagcioglu (Erik Baauw)",
   "license": "Apache-2.0",
   "version": "1.8.8",
   "keywords": [
@@ -30,20 +30,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ebaauw/homebridge-rpi.git"
+    "url": "git+https://github.com/alikadir/homebridge-rpi.git"
   },
   "bugs": {
-    "url": "https://github.com/ebaauw/homebridge-rpi/issues"
+    "url": "https://github.com/alikadir/homebridge-rpi/issues"
   },
-  "homepage": "https://github.com/ebaauw/homebridge-rpi#readme",
-  "funding": [
-    {
-      "type": "github",
-      "url": "https://github.com/sponsors/ebaauw"
-    },
-    {
-      "type": "paypal",
-      "url": "https://www.paypal.me/ebaauw/EUR"
-    }
-  ]
+  "homepage": "https://github.com/alikadir/homebridge-rpi#readme",
+  
 }
